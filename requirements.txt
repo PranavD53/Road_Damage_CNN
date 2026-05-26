@@ -3,3 +3,5 @@ numpy
 pandas
 tensorflow
 scikit-learn
+opencv-python-headless
+Pillow
